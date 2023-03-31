@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=864c24&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Web+Full+Stack+Java!)](https://git.io/typing-svg)
 ## Olar, eu sou a Rebeca Damas, sou uma desenvolvedora web criativa e organizada!
 Cursando Desenvolvimento Full Stack (Generation).<br>
 
@@ -28,11 +29,13 @@ Minhas tecnologias
   <a href = "mailto:contato.rebecadamas@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rebeca-de-freitas-damas-173305269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
+ <div style="display:inline_block">
+
   ![Snake animation](https://github.com/Mrnho1/Mrnho1/blob/output/github-contribution-grid-snake.svg)
+  <img align="right" alt="Beca-Avatar" height="200" width="200" src="https://cdn.picrew.me/shareImg/org/202303/1108773_bG6siiS9.png">
  
+   </div>
 </div>
 
   ## Espero te ver de novo em breve :)
-<div style="display: inline_block" align="end">
- <img alt="Beca-Avatar" height="400" width="400" src="https://cdn.picrew.me/shareImg/org/202303/1108773_bG6siiS9.png">
-  </div>
+
