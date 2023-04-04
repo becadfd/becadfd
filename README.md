@@ -32,7 +32,7 @@ Minhas tecnologias
  <div style="display:inline_block">
 
   ![Snake animation](https://github.com/Mrnho1/Mrnho1/blob/output/github-contribution-grid-snake.svg)
-  <img align="right" alt="Beca-Avatar" height="200" width="200" src="https://cdn.picrew.me/shareImg/org/202303/1108773_bG6siiS9.png">
+  <img align="right" alt="Beca-Avatar" height="200" width="200" src="https://cdn.picrew.me/shareImg/org/202304/1342558_7n8eFL0u.png">
  
    </div>
 </div>
